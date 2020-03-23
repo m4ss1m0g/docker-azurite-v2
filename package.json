@@ -1,0 +1,17 @@
+{
+  "name": "azurite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "azurite": "azurite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "azurite": "2.7.1"
+  }
+
+}
